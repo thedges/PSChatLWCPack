@@ -33,3 +33,10 @@ Format for chat bot configuration string is: __lwc:fileupload:recordId:fileName:
 - __fileName__ - the name of the file to set after it is uploaded (overrides name of file from source OS)
 - __bField__ - the boolean field API name on the record to set to true once the file is uploaded
 - __commAccess__ - make the file accessible from community/experience site
+
+
+<a href="https://githubsfdeploy.herokuapp.com">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
+
