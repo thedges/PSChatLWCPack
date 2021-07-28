@@ -35,7 +35,7 @@ Format for chat bot configuration string is: __lwc:fileupload:recordId:fileName:
 - __commAccess__ - make the file accessible from community/experience site
 
 
-<a href="https://githubsfdeploy.herokuapp.com">
+<a href="https://githubsfdeploy.herokuapp.com?owner=thedges&repo=PSChatLWCPack&ref=main">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
