@@ -14,7 +14,12 @@ This component has been enhanced to include 2 extra parameters:
 * object label to show as card title
 * [SLDS icon name](https://www.lightningdesignsystem.com/icons/) to show in card title
       
-Format for chat bot configuration string is: __lwc:recordtile:objectName:recordId:objectFieldCSV:label:iconName__
+Format for chat bot configuration string is: **lwc:recordtile:objectName:recordId:objectFieldCSV:label:iconName__ where
+- __objectName__ - the API name of the object
+- __recordId__ - the record id to show the fields for
+- __objectFieldCSV__ - a CSV list of field API names
+- __label__ - the label to show in card title
+- __iconName__ - the SLDS icon name
       
 __3. lwcchatpack_fileupload Lightning Web Component__ 
 
