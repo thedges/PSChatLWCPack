@@ -11,9 +11,8 @@ This is a new LWC used in the configuration of the chat bot. In __Setup > Featur
 __lwcchatpack_recordform Lightning Web Component__
 
 This component has been enhanced to include 2 extra parameters: 
-
-      1. object label to show as card title
-      2. [SLDS icon name](https://www.lightningdesignsystem.com/icons/) to show in card title
+* object label to show as card title
+* [SLDS icon name](https://www.lightningdesignsystem.com/icons/) to show in card title
       
 Format for chat bot configuration string is: __lwc:recordtile:objectName:recordId:objectFieldCSV:label:iconName__
       
